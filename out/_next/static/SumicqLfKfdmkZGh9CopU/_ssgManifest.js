@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Ftrademarks-classification-in-afghanistan","\u002Ftrademark-applications","\u002Fafghanistan-ip-laws","\u002Ftrademark-registration-and-protection-in-afghanistan"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
